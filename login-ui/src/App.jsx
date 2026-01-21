@@ -54,7 +54,7 @@ function App() {
           </div>
 
           <button type="submit" className="login-button">
-            Sign In
+            Login
           </button>
         </form>
 
